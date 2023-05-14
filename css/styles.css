@@ -368,7 +368,7 @@ img {
 }
 .social-list-link:hover,
 .social-list-link:focus{
-    background-color: var(--icon-link-hover);
+    background-color: var(--hover-color);
 }
 
 .social-list-link{
