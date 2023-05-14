@@ -185,6 +185,7 @@ img {
     border-radius: 4px;
 
     background-color: var(--logo-color);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 
     font-family: inherit;
     font-weight: 500;
@@ -347,11 +348,9 @@ img {
     color: var(--accent-color);
 }
 
-
 .team-content-text {
     padding-top: 32px;
     padding-bottom: 32px;
-
 }
 
 /*icons-list*/
@@ -361,8 +360,6 @@ img {
     gap: 24px;
 }
 .social-list-item{
-    margin-top: 8px;
-
     width: 40px;
     height: 40px;
 }
@@ -389,6 +386,7 @@ img {
 
 .text-pozition {
     text-align: center;
+    margin-bottom: 8px;
 }
 
 /*==section 5==*/
